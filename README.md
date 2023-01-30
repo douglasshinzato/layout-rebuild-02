@@ -34,11 +34,11 @@ This project was developed with the following technologies:
 
 Rocket.sect project is a website for a fictional data security company where the main purpose is to test the students HTML and CSS skills.
 
-- [Checkout the final project, online](https://douglasshinzato.github.io/layout-rebuild/)
+- [Checkout the final project, online](https://douglasshinzato.github.io/layout-rebuild-02/)
 
 ## 🔖 Layout
 
-You can checkout the project layout by [this link](<https://www.figma.com/file/zIKEUFJ5mcaGWN1DsFeLFm/Projeto01-Extra-(Copy)?node-id=0%3A1&t=kej38m3kGD81pdnh-0>). You must have a [Figma](https://figma.com) account to access.
+You can checkout the project layout by [this link](<https://www.figma.com/file/A06HLctnDqxOKc34EI1wdj/Explorer-(Copy)?node-id=16%3A106&t=QNOXo7GNTmo8wBgw-1>). You must have a [Figma](https://figma.com) account to access.
 
 ## :memo: License
 
